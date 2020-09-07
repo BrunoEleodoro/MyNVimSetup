@@ -24,6 +24,9 @@ If you find it useful, that's ok as well.
   - `:PlugInstall` = install the plugins.
   - `Undo` = `u`
   - `Redo` = `ctrl+R`
+  - Beginning of line: `^`
+  - End of line: `$`
+  
     
 
 Links:
