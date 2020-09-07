@@ -22,5 +22,11 @@ If you find it useful, that's ok as well.
     - to navigate with the views, you can use `ctrl+W H`, `ctrl+W L` to navigate on the direction you desire.
 
   - `:PlugInstall` = install the plugins.
-  - 
+  - `Undo` = `u`
+  - `Redo` = `ctrl+R`
     
+
+Links:
+
+
+https://vim.fandom.com/wiki/Undo_and_Redo
